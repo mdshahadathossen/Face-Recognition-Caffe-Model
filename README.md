@@ -65,7 +65,6 @@ This project shows how to build a real-time face recognition system using OpenCV
 ---
 10. Recognize face(s) in real-time from webcam:
 ![recognize_video1](https://github.com/user-attachments/assets/99b5dbc3-8942-4b18-9de6-764ec9283421)
-![recognize_video4](https://github.com/user-attachments/assets/ed027cdb-bcc6-45c2-8493-cddfe38e590e)
 ![recognize_video4](https://github.com/user-attachments/assets/dc30b407-063c-402f-a844-bdbca3b275fd)
 ![WhatsApp Image 2025-04-24 at 22 59 07](https://github.com/user-attachments/assets/ed878411-d274-4e81-9ab9-37261ec8f24d)
 
